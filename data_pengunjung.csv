@@ -1,321 +1,321 @@
-Visitor_ID,Usia,Lama_Kunjungan,Status_Pengunjung,Area_Dominan,Banyak_Kunjungan
-1,50,160,0,Artefak,8
-2,50,136,0,Berlian,1
-3,53,164,0,Lukisan,4
-4,54,282,0,Kendaraan,6
-5,23,113,0,Artefak,9
-6,25,255,1,Geologi,2
-7,50,185,0,Berlian,1
-8,31,48,0,Berlian,2
-9,55,179,0,Kendaraan,7
-10,32,256,0,Patung,3
-11,57,35,0,Lukisan,2
-12,29,22,0,Berlian,7
-13,45,45,1,Kendaraan,2
-14,46,182,0,Kendaraan,3
-15,36,29,1,Artefak,7
-16,48,273,1,Geologi,4
-17,40,151,0,Patung,1
-18,22,152,0,Lukisan,5
-19,70,101,0,Sejarah,9
-20,18,297,0,Geologi,8
-21,49,224,0,Geologi,9
-22,25,60,0,Artefak,9
-23,63,162,0,Berlian,7
-24,18,195,1,Berlian,4
-25,25,72,1,Artefak,5
-26,25,199,0,Kendaraan,1
-27,66,134,1,Berlian,1
-28,52,159,0,Patung,3
-29,50,67,0,Lukisan,8
-30,32,512,1,Patung,4
-31,32,179,0,Geologi,4
-32,25,280,0,Patung,2
-33,25,63,0,Berlian,5
-34,43,110,0,Geologi,9
-35,28,273,1,Sejarah,1
-36,45,62,0,Lukisan,5
-37,32,69,0,Lukisan,9
-38,22,117,0,Geologi,1
-39,25,14,0,Artefak,9
-40,54,112,0,Geologi,8
-41,65,205,1,Artefak,4
-42,51,271,0,Geologi,5
-43,52,56,0,Sejarah,5
-44,25,153,0,Kendaraan,6
-45,35,278,0,Lukisan,7
-46,43,133,0,Geologi,8
-47,25,115,0,Sejarah,8
-48,56,167,0,Artefak,2
-49,58,156,0,Artefak,9
-50,25,154,0,Lukisan,7
-51,25,598,0,Berlian,1
-52,49,284,0,Geologi,4
-53,25,101,0,Berlian,8
-54,25,67,0,Artefak,4
-55,25,238,0,Kendaraan,6
-56,25,126,0,Kendaraan,5
-57,31,288,0,Artefak,3
-58,46,136,1,Patung,2
-59,70,138,0,Patung,9
-60,62,67,1,Sejarah,9
-61,25,131,0,Kendaraan,1
-62,37,10,0,Sejarah,3
-63,41,248,1,Kendaraan,8
-64,26,299,0,Geologi,6
-65,18,105,0,Geologi,5
-66,50,135,0,Berlian,5
-67,55,127,0,Geologi,6
-68,42,57,0,Berlian,7
-69,54,98,0,Geologi,1
-70,62,246,1,Lukisan,9
-71,40,281,0,Geologi,3
-72,56,198,0,Sejarah,4
-73,43,201,0,Artefak,1
-74,25,78,0,Sejarah,3
-75,58,287,0,Artefak,2
-76,40,256,0,Patung,2
-77,42,85,0,Sejarah,1
-78,52,163,0,Patung,8
-79,25,153,0,Berlian,3
-80,37,95,0,Berlian,3
-81,25,194,1,Lukisan,6
-82,42,294,0,Geologi,8
-83,29,229,0,Sejarah,9
-84,25,78,1,Patung,9
-85,34,56,0,Artefak,4
-86,18,103,1,Berlian,5
-87,25,247,0,Geologi,2
-88,53,213,0,Berlian,9
-89,49,227,0,Artefak,8
-90,45,48,0,Geologi,3
-91,23,109,0,Geologi,9
-92,70,298,0,Patung,3
-93,22,263,0,Patung,9
-94,25,231,0,Sejarah,2
-95,25,32,1,Sejarah,9
-96,22,259,0,Kendaraan,8
-97,67,19,0,Kendaraan,9
-98,67,255,1,Lukisan,5
-99,25,109,0,Berlian,2
-100,25,299,0,Sejarah,8
-101,25,189,0,Patung,6
-102,37,232,0,Artefak,8
-103,58,259,0,Patung,5
-104,35,156,0,Berlian,2
-105,61,105,1,Kendaraan,6
-106,61,266,0,Patung,5
-107,25,13,0,Lukisan,5
-108,25,25,0,Berlian,1
-109,38,289,0,Kendaraan,2
-110,45,256,0,Artefak,8
-111,36,267,0,Kendaraan,3
-112,25,169,0,Geologi,3
-113,62,161,0,Lukisan,8
-114,50,187,0,Berlian,8
-115,51,172,0,Artefak,2
-116,46,42,0,Lukisan,8
-117,25,188,0,Kendaraan,1
-118,25,110,0,Lukisan,6
-119,67,277,0,Berlian,8
-120,25,74,0,Sejarah,3
-121,22,177,1,Lukisan,8
-122,30,520,1,Sejarah,3
-123,25,53,0,Lukisan,9
-124,29,294,0,Kendaraan,9
-125,59,21,0,Kendaraan,5
-126,22,104,1,Artefak,4
-127,43,262,0,Kendaraan,6
-128,48,251,0,Patung,7
-129,66,44,0,Berlian,5
-130,25,224,0,Berlian,9
-131,25,99,1,Sejarah,3
-132,25,273,0,Sejarah,7
-133,29,102,1,Berlian,5
-134,18,99,0,Geologi,7
-135,34,124,1,Sejarah,2
-136,53,114,0,Artefak,4
-137,55,205,0,Kendaraan,2
-138,66,123,0,Berlian,7
-139,66,84,1,Sejarah,2
-140,25,226,1,Berlian,1
-141,25,286,0,Patung,9
-142,54,258,1,Lukisan,1
-143,55,173,0,Kendaraan,8
-144,25,201,1,Berlian,2
-145,65,236,0,Lukisan,8
-146,25,186,0,Sejarah,3
-147,21,108,1,Lukisan,6
-148,23,45,0,Kendaraan,3
-149,22,105,0,Berlian,7
-150,54,161,0,Patung,9
-151,45,450,0,Patung,1
-152,51,199,0,Sejarah,5
-153,64,233,1,Berlian,6
-154,54,46,0,Kendaraan,4
-155,39,277,0,Sejarah,4
-156,33,192,0,Artefak,4
-157,59,22,0,Lukisan,2
-158,57,288,0,Geologi,4
-159,55,226,0,Kendaraan,1
-160,54,295,0,Artefak,6
-161,38,282,0,Berlian,1
-162,32,71,1,Patung,6
-163,64,93,0,Sejarah,1
-164,61,226,0,Lukisan,6
-165,29,196,0,Sejarah,8
-166,66,28,0,Geologi,2
-167,29,186,0,Berlian,2
-168,29,109,0,Sejarah,4
-169,39,242,0,Lukisan,3
-170,31,85,0,Berlian,4
-171,31,274,0,Sejarah,7
-172,55,293,0,Patung,1
-173,25,215,0,Kendaraan,6
-174,67,232,0,Berlian,3
-175,36,61,0,Kendaraan,7
-176,31,153,0,Berlian,2
-177,38,78,0,Patung,2
-178,31,108,0,Kendaraan,4
-179,49,34,1,Artefak,1
-180,18,62,0,Lukisan,3
-181,31,160,0,Artefak,9
-182,25,153,1,Sejarah,7
-183,42,66,1,Patung,7
-184,33,48,0,Artefak,4
-185,25,118,0,Berlian,2
-186,67,190,1,Sejarah,4
-187,38,51,0,Sejarah,6
-188,19,195,0,Artefak,3
-189,42,232,0,Artefak,1
-190,25,131,1,Patung,8
-191,61,142,0,Lukisan,5
-192,62,172,0,Artefak,5
-193,29,224,1,Geologi,4
-194,59,230,0,Artefak,6
-195,57,244,0,Kendaraan,3
-196,60,155,0,Berlian,9
-197,37,248,1,Geologi,5
-198,56,85,0,Geologi,3
-199,50,18,0,Kendaraan,1
-200,40,83,0,Kendaraan,6
-201,58,262,0,Sejarah,2
-202,62,239,0,Lukisan,3
-203,59,16,1,Berlian,1
-204,47,183,0,Patung,9
-205,28,150,0,Geologi,8
-206,20,177,0,Patung,2
-207,67,179,0,Artefak,8
-208,42,292,0,Artefak,9
-209,18,131,0,Patung,1
-210,33,203,0,Artefak,5
-211,33,14,0,Lukisan,8
-212,42,38,0,Kendaraan,2
-213,31,174,0,Artefak,4
-214,33,145,0,Sejarah,7
-215,37,154,0,Artefak,3
-216,38,226,0,Berlian,5
-217,23,141,0,Lukisan,8
-218,25,79,0,Berlian,3
-219,34,261,1,Berlian,4
-220,19,284,0,Sejarah,9
-221,27,191,0,Lukisan,7
-222,18,176,0,Lukisan,1
-223,35,100,1,Lukisan,4
-224,22,211,0,Lukisan,4
-225,42,28,0,Lukisan,9
-226,28,48,0,Sejarah,6
-227,61,135,0,Artefak,9
-228,25,182,0,Berlian,6
-229,25,150,0,Lukisan,6
-230,18,251,0,Geologi,5
-231,21,229,0,Artefak,5
-232,62,135,0,Artefak,2
-233,25,67,0,Berlian,8
-234,29,157,0,Sejarah,8
-235,25,10,0,Patung,1
-236,39,199,0,Patung,8
-237,35,200,0,Artefak,5
-238,31,126,0,Kendaraan,2
-239,18,143,0,Kendaraan,2
-240,56,67,0,Berlian,6
-241,45,53,0,Patung,9
-242,29,182,0,Artefak,1
-243,25,169,0,Sejarah,6
-244,58,182,0,Patung,9
-245,18,158,0,Artefak,8
-246,54,89,0,Artefak,6
-247,61,222,1,Lukisan,3
-248,31,212,1,Sejarah,8
-249,52,261,0,Lukisan,9
-250,21,238,0,Berlian,1
-251,25,173,0,Lukisan,9
-252,61,236,0,Geologi,6
-253,35,156,0,Lukisan,6
-254,47,29,1,Geologi,4
-255,66,56,0,Patung,1
-256,46,242,0,Kendaraan,8
-257,45,23,0,Artefak,2
-258,56,152,0,Geologi,1
-259,54,10,0,Sejarah,2
-260,18,63,0,Lukisan,1
-261,38,268,1,Geologi,1
-262,23,153,0,Sejarah,9
-263,70,21,0,Kendaraan,1
-264,18,233,0,Kendaraan,4
-265,22,281,0,Lukisan,6
-266,68,165,0,Berlian,7
-267,23,17,0,Lukisan,2
-268,25,131,0,Patung,6
-269,23,173,0,Geologi,7
-270,25,99,1,Artefak,2
-271,60,145,1,Berlian,2
-272,25,195,0,Lukisan,7
-273,25,187,0,Sejarah,1
-274,55,37,0,Berlian,8
-275,25,229,0,Geologi,3
-276,58,50,1,Berlian,6
-277,51,237,0,Geologi,9
-278,25,201,0,Lukisan,6
-279,18,154,0,Geologi,9
-280,70,210,0,Berlian,7
-281,21,221,0,Sejarah,9
-282,20,229,0,Kendaraan,2
-283,55,249,0,Berlian,8
-284,61,55,0,Geologi,8
-285,18,44,0,Kendaraan,2
-286,31,262,0,Geologi,4
-287,25,91,0,Sejarah,7
-288,25,265,1,Geologi,4
-289,22,206,1,Lukisan,4
-290,25,19,0,Artefak,6
-291,25,295,0,Berlian,6
-292,61,251,1,Artefak,3
-293,33,260,0,Geologi,9
-294,25,14,0,Sejarah,2
-295,25,128,1,Berlian,6
-296,25,298,0,Geologi,7
-297,35,74,0,Kendaraan,9
-298,39,155,0,Patung,3
-299,25,233,0,Geologi,3
-300,58,248,0,Artefak,7
-301,38,186,0,Berlian,4
-302,19,276,0,Artefak,8
-303,68,291,0,Berlian,7
-304,35,72,0,Geologi,5
-305,52,226,0,Lukisan,7
-306,54,292,1,Kendaraan,3
-307,70,186,0,Geologi,2
-308,63,107,0,Artefak,6
-309,18,114,1,Patung,2
-310,18,108,0,Patung,3
-311,23,15,0,Sejarah,6
-312,25,206,0,Berlian,5
-313,18,512,1,Artefak,5
-314,25,268,0,Sejarah,9
-315,25,32,0,Artefak,3
-316,25,62,0,Berlian,3
-317,64,174,0,Geologi,3
-318,58,211,0,Geologi,6
-319,31,92,0,Patung,1
-320,36,154,0,Geologi,7
+Visitor_ID,Nama,No_KTP,Usia,Lama_Kunjungan,Status_Pengunjung,Area_Dominan,Banyak_Kunjungan
+1,Dr. Daniel Martin DDS,101-67-0182,50,160,0,Artefak,8
+2,Nathaniel Sanders,726-05-2029,50,136,0,Berlian,1
+3,Danielle Williams,827-53-6091,53,164,0,Lukisan,4
+4,Becky Simpson,533-22-8981,54,282,0,Kendaraan,6
+5,Timothy Castro,731-94-3190,23,113,0,Artefak,9
+6,Amanda Cantrell,386-70-9574,25,255,1,Geologi,2
+7,Curtis Smith,746-25-4180,50,185,0,Berlian,1
+8,Mackenzie Perry,319-67-7541,31,48,0,Berlian,2
+9,Ashley Allen,115-73-0504,55,179,0,Kendaraan,7
+10,Michael Barrett,360-63-8998,32,256,0,Patung,3
+11,Michael Peterson,096-99-1956,57,35,0,Lukisan,2
+12,Dorothy Phillips,196-30-0515,29,22,0,Berlian,7
+13,Emma Robinson,311-09-0169,45,45,1,Kendaraan,2
+14,Dana Simmons,448-54-1174,46,182,0,Kendaraan,3
+15,Jennifer Myers,462-13-0904,36,29,1,Artefak,7
+16,Dr. Nancy Martinez DVM,823-63-7057,48,273,1,Geologi,4
+17,William Ryan,536-42-8224,40,151,0,Patung,1
+18,Laura Dunn,150-70-4530,22,152,0,Lukisan,5
+19,Katherine Gonzales,799-46-3252,70,101,0,Sejarah,9
+20,Rachel Miller,607-60-6862,18,297,0,Geologi,8
+21,Jody Avila,775-14-0359,49,224,0,Geologi,9
+22,Rodney Johnson,679-95-6542,25,60,0,Artefak,9
+23,Wesley Munoz,195-32-7709,63,162,0,Berlian,7
+24,Sharon Nguyen,590-19-2065,18,195,1,Berlian,4
+25,Matthew Edwards,835-28-2780,25,72,1,Artefak,5
+26,Tina Nguyen,384-55-2040,25,199,0,Kendaraan,1
+27,Richard Taylor,154-17-4901,66,134,1,Berlian,1
+28,Timothy Parsons,878-62-1366,52,159,0,Patung,3
+29,Courtney Smith,190-85-4083,50,67,0,Lukisan,8
+30,Kristen Evans,216-63-4823,32,512,1,Berlian,4
+31,Troy Miller,083-05-0807,32,179,0,Geologi,4
+32,William Wright,597-85-2261,25,280,0,Patung,2
+33,Charles Dean,484-44-9731,25,63,0,Berlian,5
+34,Victoria Smith,671-19-5942,43,110,0,Geologi,9
+35,Mallory Jefferson,560-12-3245,28,273,1,Sejarah,1
+36,Donna Valencia,735-38-0870,45,62,0,Lukisan,5
+37,Amy Perez,508-77-5403,32,69,0,Lukisan,9
+38,Crystal Nixon,408-03-8079,22,117,0,Geologi,1
+39,Alicia Henderson,825-66-3408,25,14,0,Artefak,9
+40,Ian Price,445-42-8406,54,112,0,Geologi,8
+41,Robert Foster,241-64-0697,65,205,1,Artefak,4
+42,Brandi Ford DDS,464-54-0569,51,271,0,Geologi,5
+43,Robert Parks,870-64-3917,52,56,0,Sejarah,5
+44,Katherine Gutierrez,557-86-1181,25,153,0,Kendaraan,6
+45,Travis Dominguez,738-77-9272,35,278,0,Lukisan,7
+46,Derrick Nguyen,426-22-0531,43,133,0,Geologi,8
+47,Stephanie Monroe,300-06-2621,25,115,0,Sejarah,8
+48,Clayton Luna,381-74-5511,56,167,0,Artefak,2
+49,Wayne Khan,340-36-1324,58,156,0,Artefak,9
+50,Rebecca Nguyen,141-13-5105,25,154,0,Lukisan,7
+51,Jim Russel,592-12-5349,25,598,0,Berlian,1
+52,Jasmine Taylor,078-03-6874,49,284,0,Geologi,4
+53,Charles Gonzales,822-41-4743,25,101,0,Berlian,8
+54,Brandon Boyd,335-30-8631,25,67,0,Artefak,4
+55,Harold Craig,054-72-8593,25,238,0,Kendaraan,6
+56,Michael Guzman,170-15-2725,25,126,0,Kendaraan,5
+57,Larry Coffey,267-06-9983,31,288,0,Artefak,3
+58,Nicholas Smith,881-18-9852,46,136,1,Patung,2
+59,Diana Reid MD,510-12-4205,70,138,0,Patung,9
+60,Heather Powell,380-32-4913,62,67,1,Sejarah,9
+61,Bradley Lindsey,156-16-9706,25,131,0,Kendaraan,1
+62,Anthony Williams,081-47-5974,37,10,0,Sejarah,3
+63,Christopher Allen,747-70-5641,41,248,1,Kendaraan,8
+64,Aaron Rocha,880-37-3319,26,299,0,Geologi,6
+65,Laura Stephens,185-69-5013,18,105,0,Geologi,5
+66,Sarah Johnson,602-38-1400,50,135,0,Berlian,5
+67,William Garcia,687-05-4012,55,127,0,Geologi,6
+68,Gabriel Ford,238-80-3844,42,57,0,Berlian,7
+69,Amanda Thompson,408-03-8512,54,98,0,Geologi,1
+70,Jamie Chambers,398-64-1165,62,246,1,Lukisan,9
+71,Karen Le,778-81-5379,40,281,0,Geologi,3
+72,Dustin Vega,607-53-2631,56,198,0,Sejarah,4
+73,Rhonda Williams,642-34-0821,43,201,0,Artefak,1
+74,Steven Davis,730-66-7468,25,78,0,Sejarah,3
+75,Tony Brown,266-91-4352,58,287,0,Artefak,2
+76,Jessica Jackson,124-16-9532,40,256,0,Patung,2
+77,Becky Thompson,464-84-9430,42,85,0,Sejarah,1
+78,Holly Shea,248-27-9820,52,163,0,Patung,8
+79,Richard Kennedy,249-45-7554,25,153,0,Berlian,3
+80,Robert Smith,163-46-9325,37,95,0,Berlian,3
+81,Eduardo Jackson,878-07-0475,25,194,1,Lukisan,6
+82,Angela Johnson,633-16-4075,42,294,0,Geologi,8
+83,Emily Hunt,640-69-5942,29,229,0,Sejarah,9
+84,Brooke Waters,398-77-0893,25,78,1,Patung,9
+85,James Stone,806-39-3340,34,56,0,Artefak,4
+86,Nicole Harper,209-44-0857,18,103,1,Berlian,5
+87,Erica Shaw,249-03-6003,25,247,0,Geologi,2
+88,Dustin Flores,629-41-0085,53,213,0,Berlian,9
+89,Jorge Smith,818-64-1168,49,227,0,Artefak,8
+90,Melissa Santos,304-22-0227,45,48,0,Geologi,3
+91,Paula Sanders,566-27-5719,23,109,0,Geologi,9
+92,Lisa Bautista,744-31-6363,70,298,0,Patung,3
+93,Bradley Mcknight,351-25-9192,22,263,0,Patung,9
+94,Brittany White,852-75-7195,25,231,0,Sejarah,2
+95,John Morgan,087-54-2688,25,32,1,Sejarah,9
+96,Jessica Johnston,085-68-0755,22,259,0,Kendaraan,8
+97,Andrew Molina,822-91-8448,67,19,0,Kendaraan,9
+98,Lisa Orozco,716-69-2871,67,255,1,Lukisan,5
+99,Corey Barrett Jr.,627-29-8947,25,109,0,Berlian,2
+100,Karen Christensen,086-32-5558,25,299,0,Sejarah,8
+101,Joseph Anderson,086-74-1090,25,189,0,Patung,6
+102,Brian Mills,347-31-1276,37,232,0,Artefak,8
+103,Benjamin Molina,137-67-3956,58,259,0,Patung,5
+104,Jordan Johnson,708-19-1390,35,156,0,Berlian,2
+105,Joseph Hogan DVM,342-20-8171,61,105,1,Kendaraan,6
+106,Brenda Marshall,674-95-5442,61,266,0,Patung,5
+107,Katherine Espinoza,517-98-0590,25,13,0,Lukisan,5
+108,Jermaine Best,823-86-5972,25,25,0,Berlian,1
+109,Karen Hernandez PhD,003-41-2848,38,289,0,Kendaraan,2
+110,Brittney Burton,727-70-0878,45,256,0,Artefak,8
+111,Kayla Dyer,303-68-5195,36,267,0,Kendaraan,3
+112,James Obrien,865-01-1702,25,169,0,Geologi,3
+113,Jamie Ortiz,405-45-8616,62,161,0,Lukisan,8
+114,Emily Johnston,250-37-7569,50,187,0,Berlian,8
+115,Kevin Gray,317-73-8863,51,172,0,Artefak,2
+116,Kristina Cain,619-01-3230,46,42,0,Lukisan,8
+117,Carolyn Cooper,139-78-7269,25,188,0,Kendaraan,1
+118,Christopher Bailey,594-97-9582,25,110,0,Lukisan,6
+119,Brian Payne,167-50-8688,67,277,0,Berlian,8
+120,Laurie Hardin,221-50-5477,25,74,0,Sejarah,3
+121,Megan Montgomery,399-70-0798,22,177,1,Lukisan,8
+122,Diane Brown,665-58-8579,30,520,1,Sejarah,3
+123,Alison Moore,265-58-0617,40,472,1,Geologi,7
+124,Alicia Sullivan,522-33-4902,29,294,0,Kendaraan,9
+125,John Cruz,271-96-1067,59,21,0,Kendaraan,5
+126,Russell Johnson,728-41-4845,22,104,1,Artefak,4
+127,Ashley Blevins,610-76-6329,43,262,0,Kendaraan,6
+128,Justin Finley,327-80-7251,48,251,0,Patung,7
+129,Derrick Watson,662-75-6454,66,44,0,Berlian,5
+130,Chelsea Alexander,418-49-5090,25,224,0,Berlian,9
+131,Martha Jensen,411-36-9900,25,99,1,Sejarah,3
+132,Thomas Hernandez,712-59-3025,25,273,0,Sejarah,7
+133,Emily Carroll,417-41-5053,29,102,1,Berlian,5
+134,Amy Meyer,201-50-0734,18,99,0,Geologi,7
+135,Alison Juarez,015-72-0346,34,124,1,Sejarah,2
+136,Jeffrey Martin,800-52-9155,53,114,0,Artefak,4
+137,Ethan Mason,832-12-5017,55,205,0,Kendaraan,2
+138,Daniel Wilkerson,039-55-6532,66,123,0,Berlian,7
+139,Dawn Tapia,177-49-0131,66,84,1,Sejarah,2
+140,Amanda Chapman,503-02-2436,25,226,1,Berlian,1
+141,Joseph Sanchez,458-34-3120,25,286,0,Patung,9
+142,April Shelton,044-89-0786,54,258,1,Lukisan,1
+143,Mark Smith,052-82-7801,55,173,0,Kendaraan,8
+144,Amy Snyder,147-11-3925,25,201,1,Berlian,2
+145,Christina Collier,575-40-5185,65,236,0,Lukisan,8
+146,Valerie Mueller,002-45-2788,25,186,0,Sejarah,3
+147,Scott Baker Jr.,513-32-7575,21,108,1,Lukisan,6
+148,Dustin Watkins II,001-35-8615,23,45,0,Kendaraan,3
+149,Joshua Madden,523-87-7718,22,105,0,Berlian,7
+150,Craig Finley,107-62-7535,54,161,0,Patung,9
+151,Crystal Zimmerman,147-50-7192,32,520,1,Artefak,4
+152,Debra Gonzales,400-78-0160,51,199,0,Sejarah,5
+153,Julia Grimes,653-24-6702,64,233,1,Berlian,6
+154,Scott David,004-08-8839,54,46,0,Kendaraan,4
+155,Donald Nelson,052-16-7297,39,277,0,Sejarah,4
+156,Robert Whitehead,407-68-2484,33,192,0,Artefak,4
+157,Kathryn Taylor,728-76-5852,59,22,0,Lukisan,2
+158,Nathan Weaver,436-85-1504,57,288,0,Geologi,4
+159,Brittany Lloyd,193-42-3460,55,226,0,Kendaraan,1
+160,Richard Thompson,671-47-9283,54,295,0,Artefak,6
+161,Kristen Gilbert,274-17-3562,38,282,0,Berlian,1
+162,Jacqueline White,209-13-5924,32,71,1,Patung,6
+163,Veronica Calhoun,224-59-7182,64,93,0,Sejarah,1
+164,Andrew Lee,629-44-8637,61,226,0,Lukisan,6
+165,Gabriel Brennan,881-25-0035,29,196,0,Sejarah,8
+166,Rebecca Ortiz,395-97-5714,66,28,0,Geologi,2
+167,Erin Tucker,035-59-7514,29,186,0,Berlian,2
+168,Ian Herrera,589-29-4375,29,109,0,Sejarah,4
+169,Peter Gibbs,628-37-1349,39,242,0,Lukisan,3
+170,Tyler Crane,606-65-3939,31,85,0,Berlian,4
+171,Rachel Ortega,729-05-4602,31,274,0,Sejarah,7
+172,John Lynch,382-74-5678,55,293,0,Patung,1
+173,Amy Martin,545-86-2224,25,215,0,Kendaraan,6
+174,Diane Anderson,014-66-0375,67,232,0,Berlian,3
+175,Sandra Gomez,701-58-1050,36,61,0,Kendaraan,7
+176,Hector Weeks,392-01-6034,31,153,0,Berlian,2
+177,John Dennis,440-05-8476,38,78,0,Patung,2
+178,Erin Thornton,499-64-1650,31,108,0,Kendaraan,4
+179,Daniel Johnson,215-14-6490,49,34,1,Artefak,1
+180,Emily Brown,199-02-0400,18,62,0,Lukisan,3
+181,Chelsea Barber,816-86-3114,32,520,1,Berlian,4
+182,Lucas Harmon,619-89-3336,25,153,1,Sejarah,7
+183,Lisa Mcdonald,633-40-8834,40,472,1,Berlian,7
+184,Kimberly Thompson,894-30-1561,33,48,0,Artefak,4
+185,Adam Jones,705-70-9027,25,118,0,Berlian,2
+186,Amy Evans,825-51-9108,67,190,1,Sejarah,4
+187,Margaret Sanchez,213-88-8304,38,51,0,Sejarah,6
+188,Donald Lopez,427-98-3298,19,195,0,Artefak,3
+189,Brenda Lopez,273-66-0152,42,232,0,Artefak,1
+190,Samantha Jimenez,466-85-9665,25,131,1,Patung,8
+191,Stephen Henry,857-56-1831,61,142,0,Lukisan,5
+192,Stephanie Schmidt,168-97-7720,62,172,0,Artefak,5
+193,Robert Alvarez,337-69-8362,29,224,1,Geologi,4
+194,Troy Browning,347-62-6033,59,230,0,Artefak,6
+195,Briana Hill,009-23-0052,57,244,0,Kendaraan,3
+196,Yolanda Brown,833-76-2465,60,155,0,Berlian,9
+197,Kathryn Torres,683-03-1455,37,248,1,Geologi,5
+198,Jack Newton,206-19-0498,56,85,0,Geologi,3
+199,Patricia James,853-31-0221,50,18,0,Kendaraan,1
+200,Dr. Donald Bond DDS,769-89-2797,40,83,0,Kendaraan,6
+201,Stephanie Morales,824-08-4587,58,262,0,Sejarah,2
+202,Mary Alexander,268-22-2663,62,239,0,Lukisan,3
+203,Shawn Stevens,518-89-9916,59,16,1,Berlian,1
+204,Mary Diaz,030-93-3192,47,183,0,Patung,9
+205,Erin Harrison,720-85-8901,28,150,0,Geologi,8
+206,Timothy Vang,224-92-9772,20,177,0,Patung,2
+207,Michelle Mathis,800-46-6988,67,179,0,Artefak,8
+208,Linda King,038-07-6402,42,292,0,Artefak,9
+209,Matthew Conner,594-74-9702,18,131,0,Patung,1
+210,Joseph Taylor,342-87-0205,33,203,0,Artefak,5
+211,Antonio Vasquez,082-87-6533,33,14,0,Lukisan,8
+212,Kimberly Snyder,525-43-5788,42,38,0,Kendaraan,2
+213,William Williams,794-92-8082,31,174,0,Artefak,4
+214,Lisa Fuller,729-19-4901,33,145,0,Sejarah,7
+215,Christopher Austin,224-18-1881,37,154,0,Artefak,3
+216,Bobby Carlson,550-49-4587,38,226,0,Berlian,5
+217,Michelle Jackson,869-55-2876,23,141,0,Lukisan,8
+218,John Walsh,305-96-8964,25,79,0,Berlian,3
+219,Brandi Miller,482-61-5490,34,261,1,Berlian,4
+220,Matthew Hall DDS,242-55-2939,19,284,0,Sejarah,9
+221,Heather Huber,710-41-7298,27,191,0,Lukisan,7
+222,Alexis Tucker,392-03-8539,18,176,0,Lukisan,1
+223,Arthur Fox,672-79-2400,35,100,1,Lukisan,4
+224,Elizabeth Rodriguez,197-22-4715,22,211,0,Lukisan,4
+225,Timothy Gordon,002-37-6229,42,28,0,Lukisan,9
+226,Kendra Deleon,621-94-9535,28,48,0,Sejarah,6
+227,Shawn Young,247-86-1938,61,135,0,Artefak,9
+228,Deborah Jensen,003-39-6227,25,182,0,Berlian,6
+229,Judy Houston,819-72-3231,25,150,0,Lukisan,6
+230,Angela Le,677-38-6140,18,251,0,Geologi,5
+231,Jose Smith,587-11-1300,21,229,0,Artefak,5
+232,Wendy Snyder,405-37-6031,62,135,0,Artefak,2
+233,Donald Howard,138-16-6558,25,67,0,Berlian,8
+234,Daniel Parker,761-99-4398,29,157,0,Sejarah,8
+235,James Jones,724-62-7999,25,10,0,Patung,1
+236,Carlos Miller,221-39-3741,39,199,0,Patung,8
+237,Shelly Johnson,058-54-9462,35,200,0,Artefak,5
+238,Christina Dawson,691-28-3807,31,126,0,Kendaraan,2
+239,Joseph Roberts,391-12-7312,18,143,0,Kendaraan,2
+240,Karen Schmidt,576-74-5523,56,67,0,Berlian,6
+241,Lisa Sanders,109-12-1399,45,53,0,Patung,9
+242,Julie Berry,714-26-5979,29,182,0,Artefak,1
+243,Russell Carter,252-64-4048,25,169,0,Sejarah,6
+244,Pamela Moore,892-16-6721,58,182,0,Patung,9
+245,Samuel Smith,592-13-0444,18,158,0,Artefak,8
+246,Alexis Martin,468-74-8283,54,89,0,Artefak,6
+247,Juan Fowler,202-29-1644,61,222,1,Lukisan,3
+248,Matthew Chaney,491-85-6881,31,212,1,Sejarah,8
+249,April Christian,727-81-7101,52,261,0,Lukisan,9
+250,Donald Jacobs,721-82-0860,21,238,0,Berlian,1
+251,Amanda Browning,555-36-4814,25,173,0,Lukisan,9
+252,Franklin Thompson,151-42-6480,61,236,0,Geologi,6
+253,Raven Figueroa,036-79-6644,35,156,0,Lukisan,6
+254,Tammie Ramirez,799-40-4629,47,29,1,Geologi,4
+255,John Smith,813-20-5507,66,56,0,Patung,1
+256,Cheyenne Whitehead,303-77-4420,46,242,0,Kendaraan,8
+257,Brenda Molina,881-57-9848,45,23,0,Artefak,2
+258,Valerie Brown,075-86-9329,56,152,0,Geologi,1
+259,Rebecca Wallace,474-84-4590,54,10,0,Sejarah,2
+260,Trevor Garcia,496-65-5303,18,63,0,Lukisan,1
+261,Daniel Holder,877-77-2807,38,268,1,Geologi,1
+262,Tara Washington,081-85-2666,23,153,0,Sejarah,9
+263,Jeffrey Sanford,799-73-3907,70,21,0,Kendaraan,1
+264,Patrick Murray,089-80-0887,18,233,0,Kendaraan,4
+265,Ronald Mckinney,426-26-1747,22,281,0,Lukisan,6
+266,Tony Allen,033-81-0228,68,165,0,Berlian,7
+267,Jennifer Thomas,090-55-1000,23,17,0,Lukisan,2
+268,Mrs. Kristi Chan,338-55-0385,25,131,0,Patung,6
+269,Patrick Hughes,386-39-7331,23,173,0,Geologi,7
+270,Scott Villanueva,589-47-4250,25,99,1,Artefak,2
+271,Robert Palmer,238-20-5781,60,145,1,Berlian,2
+272,Ellen King,537-84-9481,25,195,0,Lukisan,7
+273,Brittany Stokes,700-20-1176,25,187,0,Sejarah,1
+274,Brian Knox,122-99-5086,55,37,0,Berlian,8
+275,Joe Cruz,424-91-7780,25,229,0,Geologi,3
+276,Michael Dodson,714-75-3437,58,50,1,Berlian,6
+277,Richard Weiss,616-95-6671,51,237,0,Geologi,9
+278,Debra Welch MD,462-31-9876,25,201,0,Lukisan,6
+279,Elizabeth Blackwell,367-57-6799,18,154,0,Geologi,9
+280,Megan Davis,058-79-1310,70,210,0,Berlian,7
+281,Sheri Turner,230-13-3864,21,221,0,Sejarah,9
+282,Michael Moore,053-11-2491,20,229,0,Kendaraan,2
+283,Michael Welch,091-01-2073,55,249,0,Berlian,8
+284,Stephen Duke,256-21-8000,61,55,0,Geologi,8
+285,Brittany Faulkner,673-81-2160,18,44,0,Kendaraan,2
+286,Kimberly Black,457-19-6259,31,262,0,Geologi,4
+287,Michael Sullivan,452-52-1112,25,91,0,Sejarah,7
+288,Jacob Fuentes,130-98-8395,25,265,1,Geologi,4
+289,Emily Watts,485-70-9199,22,206,1,Lukisan,4
+290,Jessica Gallegos,506-07-2326,25,19,0,Artefak,6
+291,Adam Davis,708-32-2176,25,295,0,Berlian,6
+292,Jordan Smith,476-66-4845,61,251,1,Artefak,3
+293,Angela Reynolds PhD,006-62-0746,33,260,0,Geologi,9
+294,Dana Knox,073-40-8542,25,14,0,Sejarah,2
+295,Cheryl Holmes,894-69-7559,25,128,1,Berlian,6
+296,Maria Velazquez,824-09-8268,25,298,0,Geologi,7
+297,Joshua Mercer,140-01-2159,35,74,0,Kendaraan,9
+298,Sandra Richard,053-68-7407,39,155,0,Patung,3
+299,Paul Roy,700-52-9957,25,233,0,Geologi,3
+300,Jennifer Boyd,326-72-9729,58,248,0,Artefak,7
+301,Brian Duncan,816-50-9139,38,186,0,Berlian,4
+302,Jessica Williams,359-12-9641,19,276,0,Artefak,8
+303,John Peters,508-57-7247,68,291,0,Berlian,7
+304,Jared Williams,441-59-0320,35,72,0,Geologi,5
+305,Joseph Hill,044-62-6435,52,226,0,Lukisan,7
+306,Melissa Wilcox,609-31-7171,54,292,1,Kendaraan,3
+307,Whitney Griffin,108-93-2132,70,186,0,Geologi,2
+308,Paul Mckee,394-08-7169,63,107,0,Artefak,6
+309,Cody Hendrix,573-12-0017,18,114,1,Patung,2
+310,Nancy Sims,753-89-2278,18,108,0,Patung,3
+311,Karen Gonzalez,680-71-8580,23,15,0,Sejarah,6
+312,Frank Patterson,882-82-1001,25,206,0,Berlian,5
+313,Brian Alvarado,601-37-4625,18,512,1,Artefak,5
+314,Brenda May,444-71-7645,25,268,0,Sejarah,9
+315,Shelby Abbott,125-04-0487,25,32,0,Artefak,3
+316,Kathy Huerta,238-86-0831,25,62,0,Berlian,3
+317,Candice Ford,820-96-9871,64,174,0,Geologi,3
+318,Tommy Wilson,117-34-3179,58,211,0,Geologi,6
+319,Justin Harding,056-22-7167,31,92,0,Patung,1
+320,Shirley Kerr,829-60-5329,36,154,0,Geologi,7
